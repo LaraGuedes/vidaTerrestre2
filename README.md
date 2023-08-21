@@ -4,5 +4,5 @@ Tema: Objetivo 15 - Vida Terrestr: Proteger, recuperar e promover o uso sustent�
 
 ## Criação
 
-Página feita com as linguagens de marcação HTML e CSS, com o esboço inicial do site, tendo dela 3 senssões principais de conteúdo sobre o tema escolhido.
+Página feita com as linguagens de marcação HTML e CSS, com o esboço inicial do site, tendo nela 3 senssões principais de conteúdo sobre o tema escolhido.
 O site será dividido em 3 etapas devido a necessidade separada dos desafios, sendo essa a segunda etapa.
